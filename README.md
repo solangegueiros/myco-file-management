@@ -1,6 +1,6 @@
-# Colorado 
+# EthDenver 2020
 
-EthDenver 2020 Project
+Advance Colorado Track
 
 ## myCo: Submit Registry
 There are 2 parts:
