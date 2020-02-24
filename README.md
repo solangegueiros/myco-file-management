@@ -13,12 +13,12 @@ Personal data from registrant:
 - Address (wallet)
 - Email
 
-Other information can be included too.
+Can be other informations
 
 
-The upload / download of files are using RIF storage, from IOV Labs.
+The upload / download of files are using RIF storage, from IoVLabs
 
-The files are saved at two decentralized storage systems:
+The files are saved at two decentralized storages: 
 - IPFS
 - Swarm
 
@@ -26,7 +26,7 @@ In the future they will be in the same project.
 
 Doing the upload, automatically it will add the registry at Blockchain
 
-Can be used with these Blockchains:
+Can be used with Blockchains:
 - Ethereum
 - RSK
 
